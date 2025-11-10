@@ -1,0 +1,8 @@
+test_data/output/
+test_data/visualisation.qgz
+
+*.egg-info/
+build/
+.snakemake/
+.vscode/
+__pycache__/

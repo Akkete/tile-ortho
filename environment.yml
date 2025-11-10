@@ -1,0 +1,18 @@
+name: tile-ortho
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - shapely
+  - geopandas
+  - numpy
+  - pyyaml
+  - ultralytics
+  - rasterio
+  - bioconda::snakemake-minimal
+  - pip:
+      - torch
+      - torchvision
+      - easyidp
+      - -e . --config-settings editable_mode=strict
