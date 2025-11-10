@@ -6,3 +6,4 @@ build/
 .snakemake/
 .vscode/
 __pycache__/
+*.tif.aux.xml
