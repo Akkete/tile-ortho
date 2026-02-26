@@ -115,4 +115,4 @@ Sorry for being confusing!
 
 ## TODO
 
-- Prepare YOLO dataset and Tile orthophoto scripts overlap very heavily, with lots of straight up duplicate code. Refactor them in a sensible way.
+- _Prepare YOLO dataset_ and _Tile orthophoto_ scripts overlap very heavily, with lots of straight up duplicate code. Refactor them in a sensible way.
